@@ -1,6 +1,0 @@
-com\example\DMS\DogsManagementSystemApplication.class
-com\example\DMS\repository\DogRepository.class
-com\example\DMS\Controllers\DogController.class
-com\example\DMS\Models\Trainer.class
-com\example\DMS\Models\Dog.class
-com\example\DMS\repository\TrainerRepository.class
